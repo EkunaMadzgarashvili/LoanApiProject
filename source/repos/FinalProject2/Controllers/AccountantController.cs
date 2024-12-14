@@ -29,7 +29,7 @@ namespace FinalProject2.Controllers
 
 
 
-        [HttpGet("AccountantJob")]
+        [HttpDelete("AccountantJob")]
         public IActionResult AccountantJob([FromBody] User user)
         {
             _accountantService.AccountantCheck(user);
