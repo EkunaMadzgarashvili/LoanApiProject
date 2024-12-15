@@ -1,5 +1,4 @@
 /Models File/
-
    User.cs _ user's functional
    
    Accountant.cs_ accountants's functional
